@@ -1,0 +1,17 @@
+{
+    "IdChat": 0,
+    "IdGroup": 27,
+    "UserID": 0,
+    "Comment": "chat test",
+    "PathFile": "",
+    "IsDelAll": false,
+    "IsHidenAll": false,
+    "TypeFile": 0,
+    "TenFile": "",
+    "IsVideoFile": false,
+    "CreatedDate": "2020-05-29T06:58:03.659Z",
+    "IdChatReplay": 0,
+    "IconChat": 0,
+    "FileUpload": null,
+    "IsGroup": false
+}
